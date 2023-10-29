@@ -33,9 +33,9 @@ Purpose of the project is testing the security of information systems
 
 
 ## Bug / Feature Request :
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/BadBoy0170/Keylogger/issues) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/BadBoy0170/Keylogger/issues). Please include sample queries and their corresponding results.
 
 ## Contribution
 
@@ -48,7 +48,7 @@ Known on internet as **BadBoy17**
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
 
-## Email Me :e-mail:
+## Email Me :
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:Rajveershikhawat07@gmail.com)
 
 
